@@ -1,2 +1,0 @@
-# TBP
-tsfintech business platform
